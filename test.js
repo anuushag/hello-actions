@@ -1,6 +1,6 @@
 const add = require('./index');
 
-if (add(2, 3) === 10) {
+if (add(2, 3) === 5) {
   console.log('✅ Test passed');
   process.exit(0);
 } else {
